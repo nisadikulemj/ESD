@@ -6,5 +6,8 @@ Pasta
 Pizza
 Chicken
 
+Beans
+Fish
+
 Thank you!
 
